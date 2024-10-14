@@ -48,7 +48,8 @@ const ProductDetailScreen = () => {
           <Text style={styles.buttonText}>Thêm vào giỏ hàng</Text>
         </TouchableOpacity>
         <TouchableOpacity style={styles.button}>
-          <Text style={styles.buttonText}>Thanh Toán</Text>
+          <Text style={styles.buttonText}>Thanh toán</Text>
+
         </TouchableOpacity>
       </View>
     </ScrollView>
